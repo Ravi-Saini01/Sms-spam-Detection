@@ -42,7 +42,7 @@ Ensure you have Python 3.x installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sms-spam-detection.git
+   git clone https://github.com/Ravi-Saini01/Sms-spam-Detection/.git
    cd sms-spam-detection
    ```
 2. Install the required dependencies:
